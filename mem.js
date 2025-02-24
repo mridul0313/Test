@@ -11,4 +11,5 @@ let user2=user1
 user2.rollno="221b240"
 console.log(user1.rollno)
 console.log(user2.rollno)
+/Users/mridulsharma/test-js/mem.js
 // above example of heap non primitive in which reference is taken means original value
